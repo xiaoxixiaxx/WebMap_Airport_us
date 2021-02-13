@@ -28,7 +28,7 @@
         // Then each (point) feature will bind a popup window.
         // The content of the popup window is the value of `feature.properties.AIRPT_NAME`
         onEachFeature: function (feature, layer) {
-            layer.bindPopup(feature.properties.AIRPT_NAME);
+            layer.bindPopup("Airport Name: " + feature.properties.AIRPT_NAME + "<br>" + "Control Tower (Y/N)? " + feature.properties.CNTL_TWR);
         },
         pointToLayer: function (feature, latlng) {
             var id = 0;
