@@ -11,8 +11,8 @@
 
 #### us-states.geojson is a geojson data file containing all the states' boundaries of the United States. This data is acquired from [Mike Bostock](https://bost.ocks.org/mike/) of D3. The count field indicates the number of airports within the boundary of the state under investigation.
 
-## libraries
-#### Leaflet, Font-Awesome for the plane icon, Google Fonts, Leaflet-ajax, CartoDB for basemap.
+## Libraries
+#### Leaflet, Font-Awesome for the plane icon, Google Fonts, Leaflet-ajax, CartoDB for basemap, Chroma.js, jQuery.
 
 ## Credit and Ackmowledgment
 ####  The project instructions provid by UW Professor Bo Zhao.  I sincerely appreciate Prof. Zhao and his team.
