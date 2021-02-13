@@ -6,7 +6,7 @@
 ## Data Source
 #### airports.geojson contains all the airports in the United States. This data is converted from a shapefile, which was downloaded and unzipped from https://catalog.data.gov/dataset/usgs-small-scale-dataset-airports-of-the-united-states-201207-shapefile.
 
-####us-states.geojson is a geojson data file containing all the states' boundaries of the United States. This data is acquired from Mike Bostock of D3. The count field indicates the number of airports within the boundary of the state under investigation.
+#### us-states.geojson is a geojson data file containing all the states' boundaries of the United States. This data is acquired from Mike Bostock of D3. The count field indicates the number of airports within the boundary of the state under investigation.
 
 ##libraries
 #### Leaflet, Font-Awesome for the plane icon, Google Fonts, Leaflet-ajax, CartoDB for basemap.
