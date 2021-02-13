@@ -1,3 +1,10 @@
+    /*
+    Xiaoxi Xia
+    GEOG 458, LAB-3
+    2/12/2021
+    */
+
+
     // 1. Create a map object.
     var mymap = L.map('map', {
         center: [51.08924838947091, -109.55627296232038],
