@@ -13,8 +13,5 @@
 ## libraries
 #### Leaflet, Font-Awesome for the plane icon, Google Fonts, Leaflet-ajax, CartoDB for basemap.
 
-## Credit
-####
-
 ## Ackmowledgment
 ####  The project instructions provid by Professor Bo Zhao.
