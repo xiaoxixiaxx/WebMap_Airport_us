@@ -2,7 +2,7 @@
 
 ![Airport](https://user-images.githubusercontent.com/77243665/107839153-cbe3f600-6d5e-11eb-8b73-11692d1cc8a9.png)
 
-## Description
+## [Description] (https://github.com/xiaoxixiaxx/WebMap_airports_us/blob/main/index.html)
 #### The interactive map shows all airports in the United States. The Choropleth map counts the number of airports in each state in gradient purple. The lightest color represents states with 0-5 airports. The darkest purple represents states with more than 21 airports. The gradual color increases the number of airports from less to more. The legend contains detailed instructions. In addition, the legend also specifies which airports have air traffic control tower. They are clearly displayed on the map in indigo and green respectively. Green icons indicates the areport has air traddic control tower. Indigo plane icons indicate there is no air traffic control tower. The plane icon with the airport element makes the map more visual, highlighting the purpose and theme of the map. A suitable basemap makes the overall appearance of the map clear, and points out the location of the United States on the world map, such as the reference object-Canada. A simple basemap highlights the distribution of US airports and makes them different. Moreover, user can click on the airport icon to see each airport's name. Addition feature is that bindPopup window shows if airport has control tower or not. 
 
 ## Data Source
