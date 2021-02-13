@@ -15,4 +15,4 @@
 #### Leaflet, Font-Awesome for the plane icon, Google Fonts, Leaflet-ajax, CartoDB for basemap.
 
 ## Credit and Ackmowledgment
-####  The project instructions provid by UW Professor Bo Zhao.
+####  The project instructions provid by UW Professor Bo Zhao.  I sincerely appreciate Prof. Zhao and his team.
